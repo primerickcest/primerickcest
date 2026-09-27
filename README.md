@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Cossette+Titre&center=true&duration=3000&pause=500&color=A50000&lines="+I+do+miss+when+it+was+just+us,+";"+The+only+two+Ricks+who+actually+invented+portal+travel.+")](https://git.io/typing-svg)
+
 ![](https://github.com/user-attachments/assets/4ebb881e-81a1-4acf-8201-da847cba3948)
 
 <p align="center"><a href="https://mercyangel.atabook.org/">atabook</a>
