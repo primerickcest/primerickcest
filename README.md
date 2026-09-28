@@ -14,5 +14,7 @@
 </br>
 <p align="center">${\textsf{\color{#A50000} CURRENT INTERESTS}}$ </p>
 
-<p align="center">${\textsf{\color{#A50000}P͟O͟S͟T͟A͟L͟,}}$ ${\textsf{\color{#A50000}R͟i͟c͟k͟ a͟n͟d͟ M͟o͟r͟t͟y͟,}}$ ${\textsf{\color{#A0B3BA}Bully Scholarship, Hetalia,}}$ ${\textsf{\color{#A50000}R͟e͟s͟i͟d͟e͟n͟t͟ E͟v͟i͟l͟,}}$ ${\textsf{\color{#A0B3BA}For You Satan, Zero Day,}}$ ${\textsf{\color{#A50000}Medical/Red Cross nurses, }}$ ${\textsf{\color{#A0B3BA}etc.}}$</p>
+<p align="center">${\textsf{\color{#A50000}P͟O͟S͟T͟A͟L͟,}}$ ${\textsf{\color{#A50000}R͟i͟c͟k͟ a͟n͟d͟ M͟o͟r͟t͟y͟,}}$ ${\textsf{\color{#A0B3BA}Bully Scholarship, Hetalia,}}$ ${\textsf{\color{#A50000}R͟e͟s͟i͟d͟e͟n͟t͟ E͟v͟i͟l͟,}}$ ${\textsf{\color{#A0B3BA}For You Satan, Zero Day,}}$ ${\textsf{\color{#A50000}Medical/Red Cross nurses, }}$ ${\textsf{\color{#A0B3BA}etc.}}$
+
+${\textsf{\color{#A50000}DNI}}$ ${\textsf{\color{#A0B3BA}if you like}}$ ${\textsf{\color{#A50000}rickorty}}$ ${\textsf{\color{#A0B3BA}or if you associate yourself with proshipping}}$</p>
 </br>
